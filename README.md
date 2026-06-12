@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://imgur.com/a/QyRzJTH" width="100%" alt="banner"/>
+<img src="https://i.imgur.com/03E4Gd0.png" width="100%" alt="banner"/>
 <h1>Hola, soy Martina</h1>
 <h3>Junior Full-Stack Developer · Alicante, Spain</h3>
 
@@ -52,8 +52,8 @@ Actualmente enfocada en proyectos propios y en seguir creciendo como desarrollad
   <a href="#"><img src="https://skillicons.dev/icons?i=vercel" title="Vercel"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=figma" title="Figma"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/></a>
-  <a <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" title="Render"/></a>
-  <a <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" title="Trello"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" title="Render"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" title="Trello"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header"/>
@@ -76,7 +76,12 @@ Actualmente enfocada en proyectos propios y en seguir creciendo como desarrollad
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/LetMCsound">LetMCsound</a></h3>
-      <p>Proyecto de fin de grado. Plataforma web para creadores musicales donde productores, compositores, cineastas y diseñadores pueden publicar, vender y descubrir contenido: beats, letras, videos musicales y arte gráfico.</p>
+        <p>Proyecto de fin de grado. Plataforma web para creadores musicales donde productores, compositores, cineastas y diseñadores pueden publicar, vender y descubrir contenido: beats, letras, videos musicales y arte             gráfico.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        </p>
     </td>
   </tr>
   <tr>
