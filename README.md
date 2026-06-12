@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Hola,%20soy%20Martina&fontSize=42&fontColor=fff&fontAlignY=36&desc=Junior%20Full-Stack%20Developer%20·%20Alicante,%20Spain&descAlignY=58&descSize=16&descColor=fff"/>
+<img src="https://imgur.com/a/QyRzJTH" width="100%" alt="banner"/>
+<h1>Hola, soy Martina</h1>
+<h3>Junior Full-Stack Developer · Alicante, Spain</h3>
 
 <p>
 Full-stack junior con experiencia en React, Node.js y Spring Boot. Me gusta que el código sea limpio y que la interfaz tenga sentido.<br>
@@ -50,8 +52,8 @@ Actualmente enfocada en proyectos propios y en seguir creciendo como desarrollad
   <a href="#"><img src="https://skillicons.dev/icons?i=vercel" title="Vercel"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=figma" title="Figma"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/></a>
-  ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-  ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+  <a <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" title="Render"/></a>
+  <a <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" title="Trello"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header"/>
