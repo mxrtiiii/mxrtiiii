@@ -1,7 +1,5 @@
 <div align="center">
-
 <img src="https://i.imgur.com/f7YsCG2.png" width="100%" alt="banner"/>
-<h1>Hola, soy Martina</h1>
 <h3>Junior Full-Stack Developer · Alicante, Spain</h3>
 
 <p>
