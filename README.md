@@ -43,6 +43,7 @@
 Plataforma web de gestión de parque empresarial con tres roles de usuario (administrador general, administrador de empresa y empleado). El proyecto incluye un módulo de formación que genera contenido estructurado automáticamente a partir de documentos subidos por cada empresa, usando la API de Claude. Desarrollado con React, Tailwind CSS, Framer Motion, Node.js y desplegado en Render.
 
 **[LetMCsound](https://github.com/LetMCsound)**
+
 Proyecto de fin de grado. Plataforma web para creadores musicales donde productores, compositores, cineastas y diseñadores pueden publicar, vender y descubrir contenido: beats, letras, videos musicales y arte gráfico.
 
 **Portfolio personal**
@@ -54,8 +55,8 @@ He desarrollado páginas web con WordPress para pequeñas empresas y emprendedor
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&theme=default&hide=stars" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mxrtiiii&show_icons=true&hide_border=true&theme=default&hide=stars" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxrtiiii&layout=compact&hide_border=true&theme=default" height="150"/>
 </p>
 
 ---
